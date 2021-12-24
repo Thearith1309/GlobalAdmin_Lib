@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GlobalAdmin_Lib"
 include ':app'
+include ':global-admin_lib'
